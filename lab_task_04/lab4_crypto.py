@@ -167,7 +167,7 @@ def measure_time():
 # ------------------ MAIN MENU ------------------
 def main():
     while True:
-        print("\n--- CSE-478 Lab 4 Menu ---")
+        print("\n---Lab 4 Menu ---")
         print("1. AES Encryption/Decryption")
         print("2. RSA Encryption/Decryption")
         print("3. RSA Signature & Verification")
